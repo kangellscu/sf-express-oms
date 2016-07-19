@@ -1,0 +1,17 @@
+{
+    "name": "homer/sf-express-oms",
+    "description": "corp logistics order management via sf oms",
+    "license": "Apache 2.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Homer\\Logistics\\SFOms\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.4"
+    }
+}
