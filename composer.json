@@ -1,7 +1,7 @@
 {
     "name": "homer/sf-express-oms",
     "description": "corp logistics order management via sf oms",
-    "license": "Apache 2.0",
+    "license": "proprietary",
     "type": "library",
     "autoload": {
         "psr-4": {
