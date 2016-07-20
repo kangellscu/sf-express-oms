@@ -3,6 +3,13 @@
     "description": "corp logistics order management via sf oms",
     "license": "proprietary",
     "type": "library",
+    "authors": [
+        {
+            "name": "Kangell",
+            "email": "lei.kou@homer.com.cn",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Homer\\Logistics\\SFOms\\": "src/"
